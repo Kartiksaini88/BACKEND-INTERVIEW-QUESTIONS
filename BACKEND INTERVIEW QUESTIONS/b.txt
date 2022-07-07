@@ -1,0 +1,73 @@
+Q1=> What is Caching? How can you save money with Caching?
+Ans=> The data in a cache is generally stored in fast access hardware such as RAM (Random-access memory)
+      and may also be used in correlation with a software component. A cache's primary purpose is to increase
+      data retrieval performance by reducing the need to access the underlying slower storage layer.
+
+Q2=> What is load balancing?
+Ans=> Load balancing is the process of distributing network traffic across multiple servers.
+      This ensures no single server bears too much demand.  
+
+Q3=> What is CAP Theorem?
+Ans=> The CAP theorem states that a distributed system cannot simultaneously be consistent, available, and partition tolerant.      
+
+Q4=> What is Eventual Consistency?
+Ans=> Eventual consistency is a characteristic of distributed computing systems such that the value for a specific data item will,
+      given enough time without updates, be consistent across all nodes.
+
+Q5=> What is Strong Consistency?
+Ans=> Strong consistency is one of the consistency models used in the domain of concurrent programming (e.g., in distributed shared memory,
+      distributed transactions). The protocol is said to support strong consistency if: All accesses are seen by all parallel processes (or nodes, processors, etc.)
+
+Q6=> What are the different types of databases?
+Ans=> Centralised database.
+      Distributed database.
+      Personal database.
+      End-user database.
+      Commercial database. 
+      NoSQL database.
+      Operational database.
+      Relational database.
+
+Q7=> What is Message queues?
+Ans=> Message queues allow different parts of a system to communicate and process operations asynchronously.        
+
+Q8=> What is Pub Sub ?
+Ans=> Publish/subscribe messaging, or pub/sub messaging, is a form of asynchronous service-to-service communication used in serverless and microservices architectures. 
+      In a pub/sub model, any message published to a topic is immediately received by all of the subscribers to the topic.
+
+Q9=> What are webhooks?
+Ans=> A webhook is a lightweight API that powers one-way data sharing triggered by events. Together, they enable applications to share data and functionality, and turn 
+      the web into something greater than the sum of its parts.  
+
+Q10=> What is Docker? Why do we use it?
+Ans=> Docker is an open source containerization platform. It enables developers to package applications into containers—standardized executable components combining application
+      source code with the operating system (OS) libraries and dependencies required to run that code in any environment. 
+
+Q11=> What is S3 Service in AWS?
+Ans=> Amazon Simple Storage Service (Amazon S3) is an object storage service that offers industry-leading scalability, data availability, security, and performance. You can use
+      Amazon S3 to store and retrieve any amount of data at any time, from anywhere. 
+
+Q12=> What is EC2 Instance in AWS?
+Ans=> Amazon EC2 provides a wide selection of instance types optimized to fit different use cases. Instance types comprise varying combinations of CPU, memory, storage, and networking 
+      capacity and give you the flexibility to choose the appropriate mix of resources for your applications.       
+
+Q13=> What is Cloudfront in AWS?
+Ans=> Amazon CloudFront is a content delivery network (CDN) service built for high performance, security, and developer convenience.
+
+Q14=> What is Route 53 In AWS?
+Ans=> Amazon Route 53 effectively connects user requests to infrastructure running in AWS – such as Amazon EC2 instances, Elastic Load Balancing load balancers, or Amazon S3 buckets – and
+      can also be used to route users to infrastructure outside of AWS.
+
+Q15=> What are ELBs in AWS?
+Ans=> Elastic Load Balancing (ELB) automatically distributes incoming application traffic across multiple targets and virtual appliances in one or more Availability Zones (AZs).
+
+Q16=> What is TLS?
+Ans=> Transport Layer Security, or TLS, is a widely adopted security protocol designed to facilitate privacy and data security for communications over the Internet
+
+Q17=> What is the difference HTTPS vs HTTP?
+Ans=> HTTPS is HTTP with encryption. The only difference between the two protocols is that HTTPS uses TLS (SSL) to encrypt normal HTTP requests and responses. As a result, HTTPS is far more secure than HTTP.
+      A website that uses HTTP has http:// in its URL, while a website that uses HTTPS has https://.
+
+Q18=> What is a reverse proxy?
+Ans=> A reverse proxy server is a type of proxy server that typically sits behind the firewall in a private network and directs client requests to the appropriate backend server. A reverse proxy provides an additional
+     level of abstraction and control to ensure the smooth flow of network traffic between clients and servers.      
